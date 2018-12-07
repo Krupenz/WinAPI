@@ -1,0 +1,3 @@
+﻿  winmain.cpp
+g:\nałuka\winapi github repos\paint2\paint2\winmain.cpp(45): warning C4101: "brush": lokalna zmienna, do której nie istnieje odwołanie
+  PAINT2.vcxproj -> G:\nałuka\WinAPI github repos\PAINT2\Debug\PAINT2.exe

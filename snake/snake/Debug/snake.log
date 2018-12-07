@@ -1,0 +1,3 @@
+﻿  winmain.cpp
+c:\users\krupe\source\repos\snake\snake\winmain.cpp(74): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  snake.vcxproj -> C:\Users\Krupe\source\repos\snake\Debug\snake.exe
